@@ -1,5 +1,8 @@
+Fork of three.js build 90 with some commits from newer builds.
+
 three.js
 ========
+
 
 [![Gitter][gitter-badge]][gitter-badge-url]
 [![Latest NPM release][npm-badge]][npm-badge-url]
